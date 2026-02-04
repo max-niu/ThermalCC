@@ -31,9 +31,9 @@ python generate_rgbtcc.py
 python train.py
 ```
 
-### 4. Model Training
+### 4. Model Inference
 
-* Model Inference:
+* Start model inference:
 ```
 python test.py
 ```
